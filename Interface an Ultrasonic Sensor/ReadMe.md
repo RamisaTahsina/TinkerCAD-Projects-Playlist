@@ -20,7 +20,7 @@
 
 ### Distance Formula:
 
-![eqn](https://latex.codecogs.com/svg.image?&space;distance=\frac{time\times\text{speed&space;of&space;sound}}{2})
+![eqn](https://latex.codecogs.com/svg.image?{\color{Pink}distance=\frac{time\times\text{speed&space;of&space;sound}}{2}})
 ​
 
  

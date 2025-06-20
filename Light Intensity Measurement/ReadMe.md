@@ -1,4 +1,4 @@
-# Fire Alarm System
+# Light Intensity Measurement
 ## Video link: [ Light Intensity Measurement using LDR sensor and Arduino on TinkerCAD || Arduino-TinkerCAD Projects ](https://www.youtube.com/watch?v=4ibf6wHOIok&list=PLWqnlHhsmcI4eBDLBtaZs16XZq0WL1SlP&index=3)
 
 ### Components

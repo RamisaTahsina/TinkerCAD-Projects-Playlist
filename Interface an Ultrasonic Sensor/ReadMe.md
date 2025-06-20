@@ -20,8 +20,9 @@
 
 ### Distance Formula:
 
-$$ Distance = \frac{time \times \text {speed of sound}}{2} $$
+![eqn](https://latex.codecogs.com/svg.image?&space;distance=\frac{time\times\text{speed&space;of&space;sound}}{2})
 ​
+
  
  (Divide by 2 because the sound travels to the object and back.)
 

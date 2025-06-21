@@ -1,6 +1,6 @@
 int temp = A0;
 float Temp_C;
-float volt;;
+float volt;
 float read;
 float Temp_F;
 

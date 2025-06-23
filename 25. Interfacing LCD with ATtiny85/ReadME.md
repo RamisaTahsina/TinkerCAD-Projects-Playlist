@@ -28,3 +28,22 @@ It can show 16 characters per row and has 2 rows, so a total of 32 characters on
    - Menus
    - Clocks, timers
    - Status display in DIY projects
+   ### ATtiny85
+The ATtiny85 is a small, low-cost 8-bit microcontroller made by Microchip with Flash Memory	of 8 KB and Supply Voltage 2.7V to 5.5V.
+- Pinout
+  -  1 -	RESET / PB5
+  - 2	- D3 / PB3
+  - 3 - 	D4 / PB4
+   - 4 - 	GND
+  - 5 - 	D0 / PB0
+  - 6 - 	D1 / PB1
+  - 7 - 	D2 / PB2
+  - 8 - 	VCC
+
+- Application
+  - Mini light controllers
+  -  Wearable tech
+  -  Tiny robots
+  - Battery-powered sensors
+  - IR remote devices
+  -  Simple automation

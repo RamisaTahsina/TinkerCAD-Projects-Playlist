@@ -1,5 +1,5 @@
 # Interfacing TMP36 with ATtiny
-## Video link: []()
+## Video link: [Interfacing TMP36 with ATtiny85 || ATtiny85 projects || TMP36 - ATtiny85 Interfacing](https://www.youtube.com/watch?v=1mcgcK2fXbo&list=PLWqnlHhsmcI4eBDLBtaZs16XZq0WL1SlP&index=23)
 ### Components
 1. Arduino UNO R3
 2. Temperature Sensor-TMP36
@@ -32,3 +32,23 @@ Temperature Sensor gives an analog output based on the instantaneous temperature
   - Vcc (2.7V to 5.5V)
   - Vout (Analog output voltage)
   - GND (Ground)
+
+  ### ATtiny85
+The ATtiny85 is a small, low-cost 8-bit microcontroller made by Microchip with Flash Memory	of 8 KB and Supply Voltage 2.7V to 5.5V.
+- Pinout
+  -  1 -	RESET / PB5
+  - 2	- D3 / PB3
+  - 3 - 	D4 / PB4
+   - 4 - 	GND
+  - 5 - 	D0 / PB0
+  - 6 - 	D1 / PB1
+  - 7 - 	D2 / PB2
+  - 8 - 	VCC
+
+- Application
+  - Mini light controllers
+  -  Wearable tech
+  -  Tiny robots
+  - Battery-powered sensors
+  - IR remote devices
+  -  Simple automation

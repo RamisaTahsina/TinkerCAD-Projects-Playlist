@@ -1,9 +1,13 @@
 # Interfacing TMP36 with ATtiny
 ## Video link: [Interfacing TMP36 with ATtiny85 || ATtiny85 projects || TMP36 - ATtiny85 Interfacing](https://www.youtube.com/watch?v=1mcgcK2fXbo&list=PLWqnlHhsmcI4eBDLBtaZs16XZq0WL1SlP&index=23)
 ### Components
-1. Arduino UNO R3
-2. Temperature Sensor-TMP36
-3. ATtiny85
+
+1. ATtiny
+2. Coin Cell 3V Battery
+3. DIP Switch DPST
+4. RCBG LED RGB
+5. 	Temperature Sensor [TMP36]
+6. 1 kΩ Resistor
 
 ### Temperature Sensor-TMP36
 Temperature Sensor gives an analog output based on the instantaneous temperature value. This analog output is proportional to the instantaneous input.

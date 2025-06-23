@@ -1,9 +1,10 @@
 # Interfacing LCD with ATtiny
 ## Video link: []()
 ### Components:
-1. Arduino UNO R3
-2. LCD 16x2
-3. ATtiny85
+1. LCD 16x2
+2. ATtiny85
+3. 4 batteries, AA, yes 1.5V Battery
+4. 200 Ω Resistor
 
 ### LCD 16x2
 An LCD 16x2 (Liquid Crystal Display, 16 columns and 2 rows) is a very popular display used with microcontrollers like Arduino, ESP32, Raspberry Pi, etc.

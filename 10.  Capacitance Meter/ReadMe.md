@@ -3,7 +3,7 @@
 
 ### Components
 1. Arduino Uno R3 
-2. Polar Capacitor
+2. 50 uF, 5 V Polarized Capacitor
 3. 10 kΩ Charging resistor
 4. 1 kΩ Dischargong resistor 
 

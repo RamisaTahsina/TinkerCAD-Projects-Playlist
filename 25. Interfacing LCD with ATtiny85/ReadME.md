@@ -1,5 +1,5 @@
 # Interfacing LCD with ATtiny
-## Video link: []()
+## Video link: [Interfacing 16*2 LCD Display with ATTINY85 || ATTINY85 projects || LCD Display-ATTINY85 Interfacing](https://www.youtube.com/watch?v=LXPbTBR7AwI&list=PLWqnlHhsmcI4eBDLBtaZs16XZq0WL1SlP&index=25)
 ### Components:
 1. LCD 16x2
 2. ATtiny85

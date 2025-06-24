@@ -1,6 +1,6 @@
 # Interfacing Servo Motor
 
-## Video link: [Interfacing Servo Motor with Arduino Explanation using Tinkercad || Arduino Projects]
+## Video link: [Interfacing Servo Motor with Arduino Explanation using Tinkercad || Arduino Projects](https://www.youtube.com/watch?v=_tsl8B3Mrdg&list=PLWqnlHhsmcI4eBDLBtaZs16XZq0WL1SlP&index=32)
 ### Components
 1. Arduino Uno R3
 2. Positional Micro Servo

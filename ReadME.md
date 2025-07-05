@@ -60,7 +60,7 @@ Dimensions|	~68.6 mm × 53.4 mm
 32. [Interfacing Servo Motor](https://www.tinkercad.com/things/kZtbcizGLJD-32-interfacing-servo-motor?sharecode=AJNsdehOoOGkPVHq0eFTpyFPdpvb1zi2khlL5zRt3yA)
 33. [Controlling RGB LED By PWM](https://www.tinkercad.com/things/7EbytaNy33Z-33-controlling-rgb-led-by-pwm?sharecode=h2EXjDFP4HwQBuRFu9SOZ_J0ofO6itBycvdTjPPH0-8)
 34. [Interfacing PIR Sensor](https://www.tinkercad.com/things/i21xdc4kG6G-34-interfacing-pir-sensor?sharecode=-qSLURNcebwe4Xh4h3vha29gVaUgxj5WyqD8IzxtgkE)
-36. [Interfacing NeoPixel Jewel](https://www.tinkercad.com/things/dEMmdq1trz3-36-interfacing-neopixel-jewel?sharecode=I6XBQ6Yd7KPJ9slka1GTwGQnjx_Xrn0OJcu_GcMdZ3k)
+36. [Interfacing NeoPixel Jewel](https://www.tinkercad.com/things/e29nV0meqQc-35-neopixel-jewel?sharecode=lkQSl49QofcuWbtMYF20sbNThPf0-kAXmYWKXrAhg9k)
 
 
 37. [Smart parking system](https://www.tinkercad.com/things/lCWrbzmee5O-37-smart-parking-system?sharecode=TjgI1rab22Ac-oOb7yU32mbBw9IPVBTL8oCz82RerbA) 

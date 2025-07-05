@@ -18,8 +18,8 @@ static void chase(uint32_t c)
 {
   for(uint16_t i=0; i<strip.numPixels()+4; i++)
   {
-    strip.setPixelColor(1, c);
-    strip.setPixelColor(1-4, 0);
+    strip.setPixelColor(i, c);
+    strip.setPixelColor(i-4, 0);
     strip.show();
     delay(25);
   }
